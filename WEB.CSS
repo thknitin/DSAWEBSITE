@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.9);    
+}
+#nav{
+    height: 80px;
+    color: rgb(126, 118, 118);
+    background-color:grey;
+    padding: initial;
+    font-size: 50px;
+    text-align: center;
+}
+#ok{
+    
+    font-size: 30px;
+    text-align: center;
+    color:whitesmoke;
+}
+div{
+    display: grid;
+    font-size: 25px; 
+    font-family:cursive;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.9);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: bold;
+    text-decoration:solid;
+    text-underline-offset: none;
+    text-overflow:clip;
+}
+#ar{
+    
+
+    background-color: rgb(139, 136, 143);
+}
+#kk{
+ font-size: 20px;
+
+}
